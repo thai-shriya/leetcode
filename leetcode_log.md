@@ -3,3 +3,4 @@
 _Auto-generated from LeetCode submission history._
 
 - [2022-03-26] Solved: Binary Search (python)
+- [2022-04-04] Solved: Two Sum (python)
