@@ -6,3 +6,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-04] Solved: Two Sum (python)
 - [2022-04-07] Solved: Last Stone Weight (java)
 - [2022-04-09] Solved: Longest Common Prefix (python)
+- [2022-04-11] Solved: Merge Two Sorted Lists (java)
