@@ -10,3 +10,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-11] Solved: First Bad Version (java)
 - [2022-04-11] Solved: Search Insert Position (python)
 - [2022-04-12] Solved: Squares of a Sorted Array (python)
+- [2022-04-12] Solved: Rotate Array (python)
