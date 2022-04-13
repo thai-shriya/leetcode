@@ -13,3 +13,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-12] Solved: Rotate Array (python)
 - [2022-04-12] Solved: Move Zeroes (python)
 - [2022-04-13] Solved: Find Numbers with Even Number of Digits (python)
+- [2022-04-13] Solved: Palindrome Number (python)
