@@ -16,3 +16,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-13] Solved: Palindrome Number (python)
 - [2022-04-14] Solved: Reverse String (python)
 - [2022-04-14] Solved: Reverse Words in a String III (python)
+- [2022-04-14] Solved: Max Consecutive Ones (python)
