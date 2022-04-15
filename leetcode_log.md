@@ -19,3 +19,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-14] Solved: Max Consecutive Ones (python)
 - [2022-04-14] Solved: Middle of the Linked List (java)
 - [2022-04-15] Solved: Two Sum II - Input Array Is Sorted (python)
+- [2022-04-15] Solved: Remove Nth Node From End of List (java)
