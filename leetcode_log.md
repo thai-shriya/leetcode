@@ -24,3 +24,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-20] Solved: Permutation in String (java)
 - [2022-04-20] Solved: Longest Substring Without Repeating Characters (python)
 - [2022-04-21] Solved: Max Area of Island (python3)
+- [2022-04-21] Solved: Merge Two Binary Trees (python)
