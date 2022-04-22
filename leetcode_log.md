@@ -28,3 +28,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-21] Solved: Add Two Numbers (java)
 - [2022-04-22] Solved: Reverse Linked List (java)
 - [2022-04-22] Solved: Power of Two (java)
+- [2022-04-22] Solved: Number of 1 Bits (python)
