@@ -33,3 +33,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-22] Solved: Single Number (python)
 - [2022-04-22] Solved: Climbing Stairs (python3)
 - [2022-04-22] Solved: Populating Next Right Pointers in Each Node (python3)
+- [2022-04-22] Solved: Combinations (python3)
