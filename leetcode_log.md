@@ -36,3 +36,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-22] Solved: Combinations (python3)
 - [2022-04-22] Solved: Permutations (python3)
 - [2022-04-24] Solved: Merge Sorted Array (python)
+- [2022-04-24] Solved: Container With Most Water (java)
