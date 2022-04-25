@@ -39,3 +39,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-24] Solved: Container With Most Water (java)
 - [2022-04-24] Solved: Pow(x, n) (python)
 - [2022-04-25] Solved: Remove Duplicates from Sorted Array (python)
+- [2022-04-25] Solved: Remove Element (python)
