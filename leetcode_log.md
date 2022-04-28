@@ -42,3 +42,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-25] Solved: Remove Element (python)
 - [2022-04-26] Solved: Maximum Subarray (python)
 - [2022-04-26] Solved: Length of Last Word (python3)
+- [2022-04-28] Solved: Plus One (python)
