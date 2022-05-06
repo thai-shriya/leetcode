@@ -47,3 +47,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-06] Solved: House Robber (python3)
 - [2022-05-06] Solved: Triangle (python)
 - [2022-05-06] Solved: Letter Case Permutation (python)
+- [2022-05-06] Solved: Rotting Oranges (java)
