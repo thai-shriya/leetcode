@@ -44,3 +44,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-04-26] Solved: Length of Last Word (python3)
 - [2022-04-28] Solved: Plus One (python)
 - [2022-05-03] Solved: 01 Matrix (python)
+- [2022-05-06] Solved: House Robber (python3)
