@@ -52,3 +52,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-09] Solved: Guess Number Higher or Lower (python)
 - [2022-05-09] Solved: Concatenation of Array (python)
 - [2022-05-09] Solved: Running Sum of 1d Array (python)
+- [2022-05-09] Solved: Richest Customer Wealth (python)
