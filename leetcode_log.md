@@ -50,3 +50,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-06] Solved: Rotting Oranges (java)
 - [2022-05-07] Solved: 132 Pattern (python3)
 - [2022-05-09] Solved: Guess Number Higher or Lower (python)
+- [2022-05-09] Solved: Concatenation of Array (python)
