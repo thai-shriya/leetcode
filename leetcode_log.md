@@ -55,3 +55,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-09] Solved: Richest Customer Wealth (python)
 - [2022-05-10] Solved: Majority Element (python)
 - [2022-05-10] Solved: Maximum Number of Words Found in Sentences (python)
+- [2022-05-10] Solved: Shuffle the Array (python)
