@@ -53,3 +53,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-09] Solved: Concatenation of Array (python)
 - [2022-05-09] Solved: Running Sum of 1d Array (python)
 - [2022-05-09] Solved: Richest Customer Wealth (python)
+- [2022-05-10] Solved: Majority Element (python)
