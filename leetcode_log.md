@@ -58,3 +58,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-10] Solved: Shuffle the Array (python)
 - [2022-05-10] Solved: Peak Index in a Mountain Array (python)
 - [2022-05-11] Solved: Final Value of Variable After Performing Operations (python)
+- [2022-05-15] Solved: Valid Perfect Square (java)
