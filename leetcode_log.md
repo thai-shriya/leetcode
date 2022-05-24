@@ -61,3 +61,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-15] Solved: Valid Perfect Square (java)
 - [2022-05-15] Solved: Find the Distance Value Between Two Arrays (python3)
 - [2022-05-23] Solved: Kids With the Greatest Number of Candies (python)
+- [2022-05-24] Solved: Contains Duplicate (python)
