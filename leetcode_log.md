@@ -63,3 +63,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-23] Solved: Kids With the Greatest Number of Candies (python)
 - [2022-05-24] Solved: Contains Duplicate (python)
 - [2022-05-27] Solved: Intersection of Two Arrays II (java)
+- [2022-05-30] Solved: Best Time to Buy and Sell Stock (java)
