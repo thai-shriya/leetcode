@@ -65,3 +65,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-05-27] Solved: Intersection of Two Arrays II (java)
 - [2022-05-30] Solved: Best Time to Buy and Sell Stock (java)
 - [2022-06-07] Solved: Minimum Number of Moves to Seat Everyone (java)
+- [2022-06-08] Solved: Edit Distance (java)
