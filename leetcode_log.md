@@ -69,3 +69,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-09] Solved: Combination Sum (java)
 - [2022-06-09] Solved: One Edit Distance (java)
 - [2022-06-10] Solved: Shuffle String (java)
+- [2022-06-11] Solved: Minimum Operations to Reduce X to Zero (java)
