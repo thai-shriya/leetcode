@@ -72,3 +72,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-11] Solved: Minimum Operations to Reduce X to Zero (java)
 - [2022-06-13] Solved: Maximum Erasure Value (java)
 - [2022-06-19] Solved: Pascal's Triangle (java)
+- [2022-06-19] Solved: Sqrt(x) (java)
