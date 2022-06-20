@@ -74,3 +74,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-19] Solved: Pascal's Triangle (java)
 - [2022-06-19] Solved: Sqrt(x) (java)
 - [2022-06-19] Solved: Find Smallest Letter Greater Than Target (java)
+- [2022-06-20] Solved: Arranging Coins (java)
