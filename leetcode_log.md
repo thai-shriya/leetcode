@@ -76,3 +76,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-19] Solved: Find Smallest Letter Greater Than Target (java)
 - [2022-06-20] Solved: Arranging Coins (java)
 - [2022-06-20] Solved: Kth Missing Positive Number (java)
+- [2022-06-21] Solved: Special Array With X Elements Greater Than or Equal X (java)
