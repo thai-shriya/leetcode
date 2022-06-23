@@ -80,3 +80,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-21] Solved: Find First and Last Position of Element in Sorted Array (java)
 - [2022-06-21] Solved: Count Negative Numbers in a Sorted Matrix (java)
 - [2022-06-21] Solved: The K Weakest Rows in a Matrix (java)
+- [2022-06-23] Solved: Reshape the Matrix (java)
