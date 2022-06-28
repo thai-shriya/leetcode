@@ -83,3 +83,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-23] Solved: Reshape the Matrix (java)
 - [2022-06-26] Solved: Add Two Integers (java)
 - [2022-06-26] Solved: Build Array from Permutation (java)
+- [2022-06-28] Solved: High Five (java)
