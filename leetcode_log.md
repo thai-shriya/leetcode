@@ -85,3 +85,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-26] Solved: Build Array from Permutation (java)
 - [2022-06-28] Solved: High Five (java)
 - [2022-06-28] Solved: Binary Tree Inorder Traversal (java)
+- [2022-06-28] Solved: Binary Tree Preorder Traversal (java)
