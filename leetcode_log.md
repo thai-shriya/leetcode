@@ -89,3 +89,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-29] Solved: Range Sum of BST (java)
 - [2022-06-29] Solved: Valid Parentheses (java)
 - [2022-06-29] Solved: Maximum Depth of Binary Tree (java)
+- [2022-06-29] Solved: Binary Tree Postorder Traversal (java)
