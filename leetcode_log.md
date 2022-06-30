@@ -91,3 +91,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-29] Solved: Maximum Depth of Binary Tree (java)
 - [2022-06-29] Solved: Binary Tree Postorder Traversal (java)
 - [2022-06-30] Solved: Remove Duplicates from Sorted List (java)
+- [2022-06-30] Solved: Add Binary (java)
