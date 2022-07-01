@@ -93,3 +93,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-06-30] Solved: Remove Duplicates from Sorted List (java)
 - [2022-06-30] Solved: Add Binary (java)
 - [2022-07-01] Solved: Roman to Integer (java)
+- [2022-07-01] Solved: Unique Number of Occurrences (java)
