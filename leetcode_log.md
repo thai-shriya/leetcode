@@ -95,3 +95,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-01] Solved: Roman to Integer (java)
 - [2022-07-01] Solved: Unique Number of Occurrences (java)
 - [2022-07-02] Solved: Sort Array by Increasing Frequency (java)
+- [2022-07-02] Solved: Remove All Adjacent Duplicates In String (java)
