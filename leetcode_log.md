@@ -100,3 +100,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-04] Solved: Number of Good Pairs (java)
 - [2022-07-05] Solved: Contains Duplicate II (java)
 - [2022-07-05] Solved: Fizz Buzz (java)
+- [2022-07-05] Solved: Valid Anagram (java)
