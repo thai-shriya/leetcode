@@ -98,3 +98,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-02] Solved: Remove All Adjacent Duplicates In String (java)
 - [2022-07-02] Solved: Next Greater Element I (java)
 - [2022-07-04] Solved: Number of Good Pairs (java)
+- [2022-07-05] Solved: Contains Duplicate II (java)
