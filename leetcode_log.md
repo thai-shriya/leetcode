@@ -102,3 +102,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-05] Solved: Fizz Buzz (java)
 - [2022-07-05] Solved: Valid Anagram (java)
 - [2022-07-05] Solved: Intersection of Two Arrays (java)
+- [2022-07-06] Solved: Find the Index of the First Occurrence in a String (java)
