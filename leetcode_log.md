@@ -105,3 +105,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-06] Solved: Find the Index of the First Occurrence in a String (java)
 - [2022-07-06] Solved: Happy Number (java)
 - [2022-07-06] Solved: Missing Number (java)
+- [2022-07-07] Solved: Search a 2D Matrix (java)
