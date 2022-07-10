@@ -107,3 +107,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-06] Solved: Missing Number (java)
 - [2022-07-07] Solved: Search a 2D Matrix (java)
 - [2022-07-08] Solved: First Unique Character in a String (java)
+- [2022-07-10] Solved: Ransom Note (java)
