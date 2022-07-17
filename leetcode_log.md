@@ -111,3 +111,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-11] Solved: Binary Tree Right Side View (java)
 - [2022-07-11] Solved: Linked List Cycle (java)
 - [2022-07-13] Solved: Symmetric Tree (java)
+- [2022-07-17] Solved: Palindrome Linked List (java)
