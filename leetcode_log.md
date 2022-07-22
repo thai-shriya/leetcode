@@ -113,3 +113,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-13] Solved: Symmetric Tree (java)
 - [2022-07-17] Solved: Palindrome Linked List (java)
 - [2022-07-20] Solved: Valid Palindrome (java)
+- [2022-07-22] Solved: Find Peak Element (java)
