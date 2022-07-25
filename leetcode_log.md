@@ -115,3 +115,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-20] Solved: Valid Palindrome (java)
 - [2022-07-22] Solved: Find Peak Element (java)
 - [2022-07-25] Solved: Find All Anagrams in a String (java)
+- [2022-07-25] Solved: Remove Duplicates from Sorted List II (java)
