@@ -117,3 +117,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-25] Solved: Find All Anagrams in a String (java)
 - [2022-07-25] Solved: Remove Duplicates from Sorted List II (java)
 - [2022-07-29] Solved: Subarray Product Less Than K (java)
+- [2022-07-29] Solved: Minimum Size Subarray Sum (java)
