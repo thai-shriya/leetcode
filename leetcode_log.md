@@ -120,3 +120,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-07-29] Solved: Minimum Size Subarray Sum (java)
 - [2022-07-29] Solved: Find Minimum in Rotated Sorted Array (java)
 - [2022-07-30] Solved: Interval List Intersections (java)
+- [2022-07-30] Solved: Backspace String Compare (java)
