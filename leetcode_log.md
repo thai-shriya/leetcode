@@ -127,3 +127,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-07] Solved: Same Tree (java)
 - [2022-08-10] Solved: Count Odd Numbers in an Interval Range (java)
 - [2022-08-10] Solved: Average Salary Excluding the Minimum and Maximum Salary (java)
+- [2022-08-11] Solved: Subtract the Product and Sum of Digits of an Integer (java)
