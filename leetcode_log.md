@@ -129,3 +129,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-10] Solved: Average Salary Excluding the Minimum and Maximum Salary (java)
 - [2022-08-11] Solved: Subtract the Product and Sum of Digits of an Integer (java)
 - [2022-08-12] Solved: Find Nearest Point That Has the Same X or Y Coordinate (java)
+- [2022-08-13] Solved: Largest Perimeter Triangle (java)
