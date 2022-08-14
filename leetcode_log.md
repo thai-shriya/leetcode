@@ -131,3 +131,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-12] Solved: Find Nearest Point That Has the Same X or Y Coordinate (java)
 - [2022-08-13] Solved: Largest Perimeter Triangle (java)
 - [2022-08-13] Solved: Sign of the Product of an Array (java)
+- [2022-08-14] Solved: Can Make Arithmetic Progression From Sequence (java)
