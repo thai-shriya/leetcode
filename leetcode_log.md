@@ -132,3 +132,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-13] Solved: Largest Perimeter Triangle (java)
 - [2022-08-13] Solved: Sign of the Product of an Array (java)
 - [2022-08-14] Solved: Can Make Arithmetic Progression From Sequence (java)
+- [2022-08-16] Solved: Remove Linked List Elements (java)
