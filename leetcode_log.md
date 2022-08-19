@@ -136,3 +136,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-16] Solved: Check if One String Swap Can Make Strings Equal (java)
 - [2022-08-18] Solved: N-ary Tree Preorder Traversal (java)
 - [2022-08-18] Solved: Check If It Is a Straight Line (java)
+- [2022-08-19] Solved: Path Sum (java)
