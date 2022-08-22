@@ -139,3 +139,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-19] Solved: Path Sum (java)
 - [2022-08-20] Solved: Swap Nodes in Pairs (java)
 - [2022-08-21] Solved: Longest Substring with At Most Two Distinct Characters (java)
+- [2022-08-22] Solved: Leaf-Similar Trees (java)
