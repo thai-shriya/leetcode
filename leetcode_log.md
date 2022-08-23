@@ -141,3 +141,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-21] Solved: Longest Substring with At Most Two Distinct Characters (java)
 - [2022-08-22] Solved: Leaf-Similar Trees (java)
 - [2022-08-23] Solved: Path Sum II (java)
+- [2022-08-23] Solved: Longest Continuous Increasing Subsequence (java)
