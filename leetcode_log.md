@@ -143,3 +143,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-23] Solved: Path Sum II (java)
 - [2022-08-23] Solved: Longest Continuous Increasing Subsequence (java)
 - [2022-08-24] Solved: How Many Numbers Are Smaller Than the Current Number (java)
+- [2022-08-24] Solved: Longest Palindromic Substring (java)
