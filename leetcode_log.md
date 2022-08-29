@@ -146,3 +146,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-24] Solved: Longest Palindromic Substring (java)
 - [2022-08-26] Solved: Number of Longest Increasing Subsequence (java)
 - [2022-08-29] Solved: Valid Mountain Array (java)
+- [2022-08-29] Solved: Replace Elements with Greatest Element on Right Side (java)
