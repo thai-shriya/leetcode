@@ -147,3 +147,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-26] Solved: Number of Longest Increasing Subsequence (java)
 - [2022-08-29] Solved: Valid Mountain Array (java)
 - [2022-08-29] Solved: Replace Elements with Greatest Element on Right Side (java)
+- [2022-08-30] Solved: Set Matrix Zeroes (java)
