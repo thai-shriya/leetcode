@@ -151,3 +151,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-31] Solved: Binary Tree Level Order Traversal (java)
 - [2022-08-31] Solved: Transpose Matrix (java)
 - [2022-09-01] Solved: Decompress Run-Length Encoded List (java)
+- [2022-09-07] Solved: Number Complement (java)
