@@ -152,3 +152,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-08-31] Solved: Transpose Matrix (java)
 - [2022-09-01] Solved: Decompress Run-Length Encoded List (java)
 - [2022-09-07] Solved: Number Complement (java)
+- [2022-09-09] Solved: Convert Sorted Array to Binary Search Tree (java)
