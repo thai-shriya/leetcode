@@ -156,3 +156,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-09-16] Solved: Reverse Integer (java)
 - [2022-09-17] Solved: Armstrong Number (java)
 - [2022-09-19] Solved: Fibonacci Number (java)
+- [2022-09-19] Solved: Frequency of the Most Frequent Element (java)
