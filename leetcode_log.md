@@ -163,3 +163,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-09-27] Solved: Zigzag Conversion (java)
 - [2022-09-28] Solved: Rearrange Array Elements by Sign (java)
 - [2022-10-01] Solved: Longest Consecutive Sequence (java)
+- [2022-10-02] Solved: Number of Common Factors (java)
