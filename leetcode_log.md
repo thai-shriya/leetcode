@@ -164,3 +164,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-09-28] Solved: Rearrange Array Elements by Sign (java)
 - [2022-10-01] Solved: Longest Consecutive Sequence (java)
 - [2022-10-02] Solved: Number of Common Factors (java)
+- [2022-10-02] Solved: Maximum Sum of an Hourglass (java)
