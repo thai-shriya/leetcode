@@ -167,3 +167,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-10-02] Solved: Maximum Sum of an Hourglass (java)
 - [2022-10-03] Solved: Rotate Image (java)
 - [2022-10-09] Solved: The Employee That Worked on the Longest Task (java)
+- [2022-10-12] Solved: Spiral Matrix (java)
