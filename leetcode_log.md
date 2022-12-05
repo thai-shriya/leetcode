@@ -169,3 +169,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-10-09] Solved: The Employee That Worked on the Longest Task (java)
 - [2022-10-12] Solved: Spiral Matrix (java)
 - [2022-10-18] Solved: Word Search (java)
+- [2022-12-05] Solved: Duplicate Zeros (java)
