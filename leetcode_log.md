@@ -170,3 +170,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-10-12] Solved: Spiral Matrix (java)
 - [2022-10-18] Solved: Word Search (java)
 - [2022-12-05] Solved: Duplicate Zeros (java)
+- [2022-12-07] Solved: Check If N and Its Double Exist (java)
