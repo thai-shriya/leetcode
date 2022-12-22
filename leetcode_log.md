@@ -172,3 +172,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-12-05] Solved: Duplicate Zeros (java)
 - [2022-12-07] Solved: Check If N and Its Double Exist (java)
 - [2022-12-21] Solved: Sort Array By Parity (java)
+- [2022-12-22] Solved: Height Checker (java)
