@@ -175,3 +175,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-12-22] Solved: Height Checker (java)
 - [2022-12-24] Solved: Max Consecutive Ones II (java)
 - [2022-12-25] Solved: Find All Numbers Disappeared in an Array (java)
+- [2022-12-25] Solved: Third Maximum Number (java)
