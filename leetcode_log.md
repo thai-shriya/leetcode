@@ -178,3 +178,4 @@ _Auto-generated from LeetCode submission history._
 - [2022-12-25] Solved: Third Maximum Number (java)
 - [2022-12-25] Solved: Find Pivot Index (java)
 - [2022-12-28] Solved: Longest Common Subsequence (java)
+- [2022-12-30] Solved: Best Time to Buy and Sell Stock II (java)
