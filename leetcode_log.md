@@ -182,3 +182,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-01-04] Solved: Diagonal Traverse (java)
 - [2023-01-06] Solved: Delete Node in a Linked List (java)
 - [2023-01-07] Solved: Product of Array Except Self (java)
+- [2023-01-16] Solved: Find the Duplicate Number (java)
