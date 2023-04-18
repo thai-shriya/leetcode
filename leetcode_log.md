@@ -185,3 +185,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-01-16] Solved: Find the Duplicate Number (java)
 - [2023-04-18] Solved: Big Countries (mysql)
 - [2023-04-18] Solved: Recyclable and Low Fat Products (mysql)
+- [2023-04-18] Solved: Find Customer Referee (mysql)
