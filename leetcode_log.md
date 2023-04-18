@@ -184,3 +184,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-01-07] Solved: Product of Array Except Self (java)
 - [2023-01-16] Solved: Find the Duplicate Number (java)
 - [2023-04-18] Solved: Big Countries (mysql)
+- [2023-04-18] Solved: Recyclable and Low Fat Products (mysql)
