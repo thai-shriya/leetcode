@@ -188,3 +188,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-04-18] Solved: Find Customer Referee (mysql)
 - [2023-04-18] Solved: Customers Who Never Order (mysql)
 - [2023-04-19] Solved: Swap Sex of Employees (mysql)
+- [2023-04-19] Solved: Delete Duplicate Emails (mysql)
