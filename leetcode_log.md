@@ -190,3 +190,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-04-19] Solved: Swap Sex of Employees (mysql)
 - [2023-04-19] Solved: Delete Duplicate Emails (mysql)
 - [2023-04-19] Solved: Calculate Special Bonus (mysql)
+- [2023-04-23] Solved: Fix Names in a Table (mysql)
