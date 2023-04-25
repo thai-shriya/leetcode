@@ -192,3 +192,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-04-19] Solved: Calculate Special Bonus (mysql)
 - [2023-04-23] Solved: Fix Names in a Table (mysql)
 - [2023-04-25] Solved: Group Sold Products By The Date (mysql)
+- [2023-04-25] Solved: Patients With a Condition (mysql)
