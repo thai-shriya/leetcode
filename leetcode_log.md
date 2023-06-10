@@ -194,3 +194,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-04-25] Solved: Group Sold Products By The Date (mysql)
 - [2023-04-25] Solved: Patients With a Condition (mysql)
 - [2023-06-10] Solved: Reverse Prefix of Word (java)
+- [2023-06-10] Solved: Counting Words With a Given Prefix (java)
