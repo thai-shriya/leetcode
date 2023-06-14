@@ -199,3 +199,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-06-12] Solved: Balanced Binary Tree (java)
 - [2023-06-12] Solved: Minimum Swaps to Group All 1's Together (java)
 - [2023-06-13] Solved: Isomorphic Strings (java)
+- [2023-06-14] Solved: Shortest Word Distance (java)
