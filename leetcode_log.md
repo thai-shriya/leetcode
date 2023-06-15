@@ -200,3 +200,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-06-12] Solved: Minimum Swaps to Group All 1's Together (java)
 - [2023-06-13] Solved: Isomorphic Strings (java)
 - [2023-06-14] Solved: Shortest Word Distance (java)
+- [2023-06-15] Solved: Meeting Rooms (java)
