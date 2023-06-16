@@ -202,3 +202,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-06-14] Solved: Shortest Word Distance (java)
 - [2023-06-15] Solved: Meeting Rooms (java)
 - [2023-06-15] Solved: Binary Tree Paths (java)
+- [2023-06-16] Solved: Group Anagrams (java)
