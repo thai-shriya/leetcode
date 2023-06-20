@@ -204,3 +204,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-06-15] Solved: Binary Tree Paths (java)
 - [2023-06-16] Solved: Group Anagrams (java)
 - [2023-06-16] Solved: Most Common Word (java)
+- [2023-06-20] Solved: Check if The Number is Fascinating (javascript)
