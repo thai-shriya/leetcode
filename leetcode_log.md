@@ -208,3 +208,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-06-20] Solved: Total Distance Traveled (javascript)
 - [2023-06-20] Solved: Add Digits (java)
 - [2023-06-21] Solved: Merge Strings Alternately (java)
+- [2023-06-22] Solved: Count Items Matching a Rule (java)
