@@ -212,3 +212,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-06-26] Solved: Sort Characters By Frequency (java)
 - [2023-06-27] Solved: Top K Frequent Elements (java)
 - [2023-06-28] Solved: Find the Highest Altitude (java)
+- [2023-06-28] Solved: Missing Ranges (java)
