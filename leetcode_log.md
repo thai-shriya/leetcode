@@ -214,3 +214,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-06-28] Solved: Find the Highest Altitude (java)
 - [2023-06-28] Solved: Missing Ranges (java)
 - [2023-06-30] Solved: Island Perimeter (java)
+- [2023-07-09] Solved: Minimum Rounds to Complete All Tasks (java)
