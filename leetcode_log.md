@@ -217,3 +217,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-09] Solved: Minimum Rounds to Complete All Tasks (java)
 - [2023-07-09] Solved: Number of Closed Islands (python3)
 - [2023-07-10] Solved: Create Hello World Function (javascript)
+- [2023-07-10] Solved: Counter (javascript)
