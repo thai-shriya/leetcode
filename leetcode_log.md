@@ -226,3 +226,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-20] Solved: Is Subsequence (java)
 - [2023-07-20] Solved: Increasing Triplet Subsequence (python3)
 - [2023-07-20] Solved: Asteroid Collision (java)
+- [2023-07-20] Solved: Max Number of K-Sum Pairs (java)
