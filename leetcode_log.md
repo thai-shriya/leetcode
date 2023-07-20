@@ -223,3 +223,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-16] Solved: Reverse Vowels of a String (java)
 - [2023-07-16] Solved: Reverse Words in a String (java)
 - [2023-07-16] Solved: String Compression (java)
+- [2023-07-20] Solved: Is Subsequence (java)
