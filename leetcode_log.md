@@ -228,3 +228,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-20] Solved: Asteroid Collision (java)
 - [2023-07-20] Solved: Max Number of K-Sum Pairs (java)
 - [2023-07-20] Solved: Maximum Average Subarray I (java)
+- [2023-07-21] Solved: Maximum Number of Vowels in a Substring of Given Length (java)
