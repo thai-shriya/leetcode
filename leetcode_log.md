@@ -230,3 +230,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-20] Solved: Maximum Average Subarray I (java)
 - [2023-07-21] Solved: Maximum Number of Vowels in a Substring of Given Length (java)
 - [2023-07-25] Solved: Baseball Game (java)
+- [2023-07-25] Solved: Strobogrammatic Number (java)
