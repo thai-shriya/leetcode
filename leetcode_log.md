@@ -232,3 +232,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-25] Solved: Baseball Game (java)
 - [2023-07-25] Solved: Strobogrammatic Number (java)
 - [2023-07-27] Solved: Maximum Running Time of N Computers (java)
+- [2023-07-27] Solved: Pour Water Between Buckets to Make Water Levels Equal (python3)
