@@ -235,3 +235,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-27] Solved: Pour Water Between Buckets to Make Water Levels Equal (python3)
 - [2023-07-28] Solved: Summary Ranges (java)
 - [2023-07-28] Solved: Find the Difference (java)
+- [2023-07-30] Solved: Jump Game (java)
