@@ -239,3 +239,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-30] Solved: Number of Employees Who Met the Target (java)
 - [2023-07-30] Solved: Count Complete Subarrays in an Array (java)
 - [2023-08-02] Solved: Word Pattern (java)
+- [2023-08-04] Solved: Add Strings (java)
