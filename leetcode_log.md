@@ -240,3 +240,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-07-30] Solved: Count Complete Subarrays in an Array (java)
 - [2023-08-02] Solved: Word Pattern (java)
 - [2023-08-04] Solved: Add Strings (java)
+- [2023-08-17] Solved: Count Complete Tree Nodes (java)
