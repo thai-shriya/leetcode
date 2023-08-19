@@ -242,3 +242,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-08-04] Solved: Add Strings (java)
 - [2023-08-17] Solved: Count Complete Tree Nodes (java)
 - [2023-08-19] Solved: Implement Stack using Queues (java)
+- [2023-08-19] Solved: Invert Binary Tree (java)
