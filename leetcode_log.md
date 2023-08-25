@@ -246,3 +246,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-08-20] Solved: Check if a String Is an Acronym of Words (java)
 - [2023-08-20] Solved: Determine the Minimum Sum of a k-avoiding Array (java)
 - [2023-08-21] Solved: Find the Longest Equal Subarray (java)
+- [2023-08-25] Solved: Time Needed to Buy Tickets (java)
