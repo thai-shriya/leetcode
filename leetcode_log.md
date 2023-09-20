@@ -248,3 +248,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-08-21] Solved: Find the Longest Equal Subarray (java)
 - [2023-08-25] Solved: Time Needed to Buy Tickets (java)
 - [2023-08-29] Solved: LRU Cache (java)
+- [2023-09-20] Solved: Sum Root to Leaf Numbers (java)
