@@ -250,3 +250,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-08-29] Solved: LRU Cache (java)
 - [2023-09-20] Solved: Sum Root to Leaf Numbers (java)
 - [2023-09-24] Solved: Maximum Odd Binary Number (java)
+- [2023-10-11] Solved: Min Cost Climbing Stairs (java)
