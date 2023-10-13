@@ -253,3 +253,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-10-11] Solved: Min Cost Climbing Stairs (java)
 - [2023-10-11] Solved: N-th Tribonacci Number (java)
 - [2023-10-12] Solved: Longest Palindrome (java)
+- [2023-10-13] Solved: Diameter of Binary Tree (java)
