@@ -255,3 +255,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-10-12] Solved: Longest Palindrome (java)
 - [2023-10-13] Solved: Diameter of Binary Tree (java)
 - [2023-10-13] Solved: Delete the Middle Node of a Linked List (java)
+- [2023-10-31] Solved: Find The Original Array of Prefix Xor (java)
