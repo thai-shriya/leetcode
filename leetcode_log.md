@@ -257,3 +257,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-10-13] Solved: Delete the Middle Node of a Linked List (java)
 - [2023-10-31] Solved: Find The Original Array of Prefix Xor (java)
 - [2023-11-03] Solved: Build an Array With Stack Operations (java)
+- [2023-11-27] Solved: Check if the Sentence Is Pangram (java)
