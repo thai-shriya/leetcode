@@ -259,3 +259,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-11-03] Solved: Build an Array With Stack Operations (java)
 - [2023-11-27] Solved: Check if the Sentence Is Pangram (java)
 - [2023-11-27] Solved: Sort Integers by The Number of 1 Bits (java)
+- [2023-11-29] Solved: Robot Return to Origin (java)
