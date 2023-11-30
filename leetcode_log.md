@@ -265,3 +265,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-11-30] Solved: Root Equals Sum of Children (java)
 - [2023-11-30] Solved: Find All The Lonely Nodes (java)
 - [2023-11-30] Solved: Search in a Binary Search Tree (java)
+- [2023-11-30] Solved: Increasing Order Search Tree (java)
