@@ -261,3 +261,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-11-27] Solved: Sort Integers by The Number of 1 Bits (java)
 - [2023-11-29] Solved: Robot Return to Origin (java)
 - [2023-11-29] Solved: Reformat Date (java)
+- [2023-11-30] Solved: Find a Corresponding Node of a Binary Tree in a Clone of That Tree (java)
