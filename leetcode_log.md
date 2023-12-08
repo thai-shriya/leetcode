@@ -269,3 +269,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-12-01] Solved: Check If Two String Arrays are Equivalent (java)
 - [2023-12-04] Solved: Largest 3-Same-Digit Number in String (java)
 - [2023-12-05] Solved: Largest Number At Least Twice of Others (java)
+- [2023-12-08] Solved: Largest Odd Number in String (java)
