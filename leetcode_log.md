@@ -271,3 +271,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-12-05] Solved: Largest Number At Least Twice of Others (java)
 - [2023-12-08] Solved: Largest Odd Number in String (java)
 - [2023-12-11] Solved: Element Appearing More Than 25% In Sorted Array (java)
+- [2023-12-12] Solved: Maximum Product of Two Elements in an Array (java)
