@@ -273,3 +273,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-12-11] Solved: Element Appearing More Than 25% In Sorted Array (java)
 - [2023-12-12] Solved: Maximum Product of Two Elements in an Array (java)
 - [2023-12-13] Solved: Special Positions in a Binary Matrix (java)
+- [2023-12-14] Solved: Difference Between Ones and Zeros in Row and Column (java)
