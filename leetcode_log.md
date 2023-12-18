@@ -275,3 +275,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-12-13] Solved: Special Positions in a Binary Matrix (java)
 - [2023-12-14] Solved: Difference Between Ones and Zeros in Row and Column (java)
 - [2023-12-16] Solved: Destination City (java)
+- [2023-12-18] Solved: Maximum Product Difference Between Two Pairs (java)
