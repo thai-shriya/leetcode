@@ -280,3 +280,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-12-19] Solved: Convert Binary Number in a Linked List to Integer (java)
 - [2023-12-21] Solved: Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold (java)
 - [2023-12-22] Solved: Maximum Score After Splitting a String (java)
+- [2023-12-22] Solved: Unique Email Addresses (java)
