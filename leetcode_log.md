@@ -281,3 +281,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-12-21] Solved: Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold (java)
 - [2023-12-22] Solved: Maximum Score After Splitting a String (java)
 - [2023-12-22] Solved: Unique Email Addresses (java)
+- [2024-01-01] Solved: Assign Cookies (java)
