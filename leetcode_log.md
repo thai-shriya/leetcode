@@ -283,3 +283,4 @@ _Auto-generated from LeetCode submission history._
 - [2023-12-22] Solved: Unique Email Addresses (java)
 - [2024-01-01] Solved: Assign Cookies (java)
 - [2024-01-04] Solved: Minimum Number of Operations to Make Array Empty (java)
+- [2024-01-07] Solved: Maximum Area of Longest Diagonal Rectangle (java)
