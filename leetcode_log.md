@@ -287,3 +287,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-01-12] Solved: Determine if String Halves Are Alike (java)
 - [2024-01-22] Solved: Set Mismatch (java)
 - [2024-02-10] Solved: Count Number of Pairs With Absolute Difference K (java)
+- [2024-02-13] Solved: Trapping Rain Water (java)
