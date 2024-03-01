@@ -289,3 +289,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-02-10] Solved: Count Number of Pairs With Absolute Difference K (java)
 - [2024-02-13] Solved: Trapping Rain Water (java)
 - [2024-02-17] Solved: Furthest Building You Can Reach (java)
+- [2024-03-01] Solved: Sleep (javascript)
