@@ -290,3 +290,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-02-13] Solved: Trapping Rain Water (java)
 - [2024-02-17] Solved: Furthest Building You Can Reach (java)
 - [2024-03-01] Solved: Sleep (javascript)
+- [2024-03-02] Solved: Counter II (javascript)
