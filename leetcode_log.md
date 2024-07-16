@@ -293,3 +293,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-03-02] Solved: Counter II (javascript)
 - [2024-04-11] Solved: Remove K Digits (java)
 - [2024-07-08] Solved: Array Prototype Last (javascript)
+- [2024-07-16] Solved: Bitwise OR of Adjacent Elements (java)
