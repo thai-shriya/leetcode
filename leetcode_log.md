@@ -294,3 +294,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-04-11] Solved: Remove K Digits (java)
 - [2024-07-08] Solved: Array Prototype Last (javascript)
 - [2024-07-16] Solved: Bitwise OR of Adjacent Elements (java)
+- [2024-07-16] Solved: Find Minimum Operations to Make All Elements Divisible by Three (java)
