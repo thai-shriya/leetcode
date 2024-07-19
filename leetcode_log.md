@@ -297,3 +297,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-07-16] Solved: Find Minimum Operations to Make All Elements Divisible by Three (java)
 - [2024-07-17] Solved: Minimum Moves to Equal Array Elements (java)
 - [2024-07-17] Solved: Apply Transform Over Each Element in Array (javascript)
+- [2024-07-19] Solved: Lucky Numbers in a Matrix (java)
