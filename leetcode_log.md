@@ -299,3 +299,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-07-17] Solved: Apply Transform Over Each Element in Array (javascript)
 - [2024-07-19] Solved: Lucky Numbers in a Matrix (java)
 - [2024-07-22] Solved: Sort the People (java)
+- [2024-07-22] Solved: Nim Game (java)
