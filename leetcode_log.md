@@ -301,3 +301,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-07-22] Solved: Sort the People (java)
 - [2024-07-22] Solved: Nim Game (java)
 - [2024-07-22] Solved: Filter Elements from Array (javascript)
+- [2024-07-24] Solved: Sort the Jumbled Numbers (java)
