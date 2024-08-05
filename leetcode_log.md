@@ -304,3 +304,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-07-24] Solved: Sort the Jumbled Numbers (java)
 - [2024-07-25] Solved: Sort an Array (java)
 - [2024-08-03] Solved: Make Two Arrays Equal by Reversing Subarrays (java)
+- [2024-08-05] Solved: Kth Distinct String in an Array (java)
