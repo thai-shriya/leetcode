@@ -309,3 +309,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-08-15] Solved: Lemonade Change (java)
 - [2024-08-29] Solved: Count Sub Islands (java)
 - [2024-08-30] Solved: Range Sum Query - Immutable (java)
+- [2024-09-03] Solved: Sum of Digits of String After Convert (java)
