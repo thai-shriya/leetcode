@@ -313,3 +313,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-04] Solved: Design Linked List (java)
 - [2024-09-10] Solved: Insert Greatest Common Divisors in Linked List (java)
 - [2024-09-10] Solved: Design Circular Queue (java)
+- [2024-09-12] Solved: Count the Number of Consistent Strings (java)
