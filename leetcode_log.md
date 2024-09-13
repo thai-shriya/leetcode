@@ -314,3 +314,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-10] Solved: Insert Greatest Common Divisors in Linked List (java)
 - [2024-09-10] Solved: Design Circular Queue (java)
 - [2024-09-12] Solved: Count the Number of Consistent Strings (java)
+- [2024-09-13] Solved: XOR Queries of a Subarray (java)
