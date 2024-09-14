@@ -316,3 +316,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-12] Solved: Count the Number of Consistent Strings (java)
 - [2024-09-13] Solved: XOR Queries of a Subarray (java)
 - [2024-09-14] Solved: Longest Subarray With Maximum Bitwise AND (java)
+- [2024-09-14] Solved: Number of Different Integers in a String (java)
