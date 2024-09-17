@@ -319,3 +319,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-14] Solved: Number of Different Integers in a String (java)
 - [2024-09-16] Solved: Encode and Decode Strings (java)
 - [2024-09-17] Solved: Uncommon Words from Two Sentences (java)
+- [2024-09-17] Solved: Group Shifted Strings (java)
