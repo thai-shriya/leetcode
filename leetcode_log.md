@@ -320,3 +320,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-16] Solved: Encode and Decode Strings (java)
 - [2024-09-17] Solved: Uncommon Words from Two Sentences (java)
 - [2024-09-17] Solved: Group Shifted Strings (java)
+- [2024-09-20] Solved: Find Subarrays With Equal Sum (java)
