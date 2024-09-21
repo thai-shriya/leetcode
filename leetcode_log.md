@@ -321,3 +321,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-17] Solved: Uncommon Words from Two Sentences (java)
 - [2024-09-17] Solved: Group Shifted Strings (java)
 - [2024-09-20] Solved: Find Subarrays With Equal Sum (java)
+- [2024-09-21] Solved: Number of Pairs of Strings With Concatenation Equal to Target (java)
