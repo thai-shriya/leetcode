@@ -324,3 +324,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-21] Solved: Number of Pairs of Strings With Concatenation Equal to Target (java)
 - [2024-09-22] Solved: Lexicographical Numbers (java)
 - [2024-09-25] Solved: Kth Largest Element in an Array (java)
+- [2024-09-25] Solved: Design Tic-Tac-Toe (java)
