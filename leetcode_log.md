@@ -326,3 +326,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-25] Solved: Kth Largest Element in an Array (java)
 - [2024-09-25] Solved: Design Tic-Tac-Toe (java)
 - [2024-09-26] Solved: Merge Intervals (java)
+- [2024-09-30] Solved: Design a Stack With Increment Operation (java)
