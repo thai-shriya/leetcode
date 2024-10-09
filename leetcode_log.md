@@ -327,3 +327,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-09-25] Solved: Design Tic-Tac-Toe (java)
 - [2024-09-26] Solved: Merge Intervals (java)
 - [2024-09-30] Solved: Design a Stack With Increment Operation (java)
+- [2024-10-09] Solved: Minimum Add to Make Parentheses Valid (java)
