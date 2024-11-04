@@ -331,3 +331,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-10-16] Solved: Separate Black and White Balls (java)
 - [2024-10-22] Solved: Kth Largest Sum in a Binary Tree (java)
 - [2024-11-04] Solved: Valid Word Abbreviation (java)
+- [2024-11-04] Solved: Valid Palindrome II (java)
