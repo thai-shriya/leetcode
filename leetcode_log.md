@@ -335,3 +335,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-11-04] Solved: String Compression III (java)
 - [2024-11-05] Solved: Minimum Number of Changes to Make Binary String Beautiful (java)
 - [2024-11-06] Solved: Find if Array Can Be Sorted (java)
+- [2024-11-09] Solved: Find Lucky Integer in an Array (java)
