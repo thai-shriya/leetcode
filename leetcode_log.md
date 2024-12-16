@@ -337,3 +337,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-11-06] Solved: Find if Array Can Be Sorted (java)
 - [2024-11-09] Solved: Find Lucky Integer in an Array (java)
 - [2024-12-04] Solved: Find the Celebrity (java)
+- [2024-12-16] Solved: Final Array State After K Multiplication Operations I (java)
