@@ -340,3 +340,4 @@ _Auto-generated from LeetCode submission history._
 - [2024-12-16] Solved: Final Array State After K Multiplication Operations I (java)
 - [2025-01-12] Solved: Check if a Parentheses String Can Be Valid (java)
 - [2025-01-13] Solved: Minimum Length of String After Operations (java)
+- [2025-01-13] Solved: Difference of Number of Distinct Values on Diagonals (java)
