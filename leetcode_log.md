@@ -342,3 +342,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-01-13] Solved: Minimum Length of String After Operations (java)
 - [2025-01-13] Solved: Difference of Number of Distinct Values on Diagonals (java)
 - [2025-01-13] Solved: Graph Valid Tree (java)
+- [2025-01-14] Solved: Find the Prefix Common Array of Two Arrays (java)
