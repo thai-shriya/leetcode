@@ -345,3 +345,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-01-14] Solved: Find the Prefix Common Array of Two Arrays (java)
 - [2025-01-15] Solved: Clone Graph (java)
 - [2025-01-21] Solved: Minimum Absolute Difference in BST (java)
+- [2025-01-21] Solved: Kth Smallest Element in a BST (java)
