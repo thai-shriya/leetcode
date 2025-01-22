@@ -348,3 +348,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-01-21] Solved: Kth Smallest Element in a BST (java)
 - [2025-01-21] Solved: Minimum Distance Between BST Nodes (java)
 - [2025-01-22] Solved: Maximum Difference Between Node and Ancestor (java)
+- [2025-01-22] Solved: Map of Highest Peak (java)
