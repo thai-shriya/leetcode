@@ -351,3 +351,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-01-22] Solved: Map of Highest Peak (java)
 - [2025-01-23] Solved: Count Servers that Communicate (java)
 - [2025-01-23] Solved: Count and Say (java)
+- [2025-01-23] Solved: Replace Elements in an Array (java)
