@@ -354,3 +354,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-01-23] Solved: Replace Elements in an Array (java)
 - [2025-01-23] Solved: Check If Array Pairs Are Divisible by k (java)
 - [2025-01-25] Solved: Make Lexicographically Smallest Array by Swapping Elements (java)
+- [2025-01-28] Solved: Number of Connected Components in an Undirected Graph (java)
