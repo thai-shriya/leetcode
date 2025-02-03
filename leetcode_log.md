@@ -357,3 +357,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-01-28] Solved: Number of Connected Components in an Undirected Graph (java)
 - [2025-02-01] Solved: Special Array I (java)
 - [2025-02-02] Solved: Maximum Difference Between Even and Odd Frequency I (java)
+- [2025-02-03] Solved: Longest Strictly Increasing or Strictly Decreasing Subarray (java)
