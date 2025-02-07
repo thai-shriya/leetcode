@@ -360,3 +360,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-02-03] Solved: Longest Strictly Increasing or Strictly Decreasing Subarray (java)
 - [2025-02-04] Solved: Maximum Ascending Subarray Sum (java)
 - [2025-02-06] Solved: Tuple with Same Product (java)
+- [2025-02-07] Solved: Find the Number of Distinct Colors Among the Balls (java)
