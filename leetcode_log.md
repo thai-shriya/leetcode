@@ -362,3 +362,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-02-06] Solved: Tuple with Same Product (java)
 - [2025-02-07] Solved: Find the Number of Distinct Colors Among the Balls (java)
 - [2025-02-08] Solved: Design a Number Container System (java)
+- [2025-02-08] Solved: Delete Nodes From Linked List Present in Array (java)
