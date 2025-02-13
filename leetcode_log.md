@@ -366,3 +366,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-02-09] Solved: Count Number of Bad Pairs (java)
 - [2025-02-10] Solved: Clear Digits (java)
 - [2025-02-12] Solved: Max Sum of a Pair With Equal Sum of Digits (java)
+- [2025-02-13] Solved: Minimum Operations to Exceed Threshold Value II (java)
