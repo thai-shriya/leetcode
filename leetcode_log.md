@@ -369,3 +369,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-02-13] Solved: Minimum Operations to Exceed Threshold Value II (java)
 - [2025-02-14] Solved: Product of the Last K Numbers (java)
 - [2025-02-14] Solved: Fixed Point (java)
+- [2025-02-17] Solved: Network Delay Time (java)
