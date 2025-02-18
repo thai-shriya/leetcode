@@ -372,3 +372,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-02-17] Solved: Network Delay Time (java)
 - [2025-02-17] Solved: Day of the Week (java)
 - [2025-02-18] Solved: Number of Provinces (java)
+- [2025-02-18] Solved: Redundant Connection (java)
