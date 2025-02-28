@@ -374,3 +374,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-02-18] Solved: Number of Provinces (java)
 - [2025-02-18] Solved: Redundant Connection (java)
 - [2025-02-18] Solved: Path with Maximum Probability (java)
+- [2025-02-28] Solved: Next Permutation (java)
