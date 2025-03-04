@@ -375,3 +375,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-02-18] Solved: Redundant Connection (java)
 - [2025-02-18] Solved: Path with Maximum Probability (java)
 - [2025-02-28] Solved: Next Permutation (java)
+- [2025-03-04] Solved: Partition Array According to Given Pivot (java)
