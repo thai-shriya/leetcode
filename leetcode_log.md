@@ -377,3 +377,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-02-28] Solved: Next Permutation (java)
 - [2025-03-04] Solved: Partition Array According to Given Pivot (java)
 - [2025-03-04] Solved: Check if Number is a Sum of Powers of Three (java)
+- [2025-03-05] Solved: Count Total Number of Colored Cells (java)
