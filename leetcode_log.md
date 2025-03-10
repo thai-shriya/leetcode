@@ -379,3 +379,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-03-04] Solved: Check if Number is a Sum of Powers of Three (java)
 - [2025-03-05] Solved: Count Total Number of Colored Cells (java)
 - [2025-03-07] Solved: Closest Prime Numbers in Range (java)
+- [2025-03-10] Solved: Subrectangle Queries (java)
