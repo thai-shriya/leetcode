@@ -381,3 +381,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-03-07] Solved: Closest Prime Numbers in Range (java)
 - [2025-03-10] Solved: Subrectangle Queries (java)
 - [2025-03-11] Solved: Deepest Leaves Sum (java)
+- [2025-03-12] Solved: Maximum Count of Positive Integer and Negative Integer (java)
