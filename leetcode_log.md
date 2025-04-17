@@ -384,3 +384,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-03-12] Solved: Maximum Count of Positive Integer and Negative Integer (java)
 - [2025-03-17] Solved: Divide Array Into Equal Pairs (java)
 - [2025-04-15] Solved: Count Good Triplets (java)
+- [2025-04-17] Solved: Find All Duplicates in an Array (java)
