@@ -386,3 +386,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-04-15] Solved: Count Good Triplets (java)
 - [2025-04-17] Solved: Find All Duplicates in an Array (java)
 - [2025-04-17] Solved: Count Equal and Divisible Pairs in an Array (java)
+- [2025-04-18] Solved: Maximum Twin Sum of a Linked List (java)
