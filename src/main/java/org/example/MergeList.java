@@ -49,7 +49,5 @@ public class MergeList {
             System.out.print(current.val + (current.next != null ? " -> " : ""));
             current = current.next;
         }
-
-
     }
 }
