@@ -391,3 +391,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-05-10] Solved: Minimum Equal Sum of Two Arrays After Replacing Zeros (java)
 - [2025-05-11] Solved: Longest Harmonious Subsequence (java)
 - [2025-05-11] Solved: Detect Capital (java)
+- [2025-05-11] Solved: Relative Sort Array (java)
