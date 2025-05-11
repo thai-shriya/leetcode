@@ -389,3 +389,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-04-18] Solved: Maximum Twin Sum of a Linked List (java)
 - [2025-04-18] Solved: Split a Circular Linked List (java)
 - [2025-05-10] Solved: Minimum Equal Sum of Two Arrays After Replacing Zeros (java)
+- [2025-05-11] Solved: Longest Harmonious Subsequence (java)
