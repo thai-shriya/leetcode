@@ -392,3 +392,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-05-11] Solved: Longest Harmonious Subsequence (java)
 - [2025-05-11] Solved: Detect Capital (java)
 - [2025-05-11] Solved: Relative Sort Array (java)
+- [2025-05-14] Solved: Reorder Data in Log Files (java)
