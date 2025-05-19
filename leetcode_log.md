@@ -396,3 +396,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-05-19] Solved: Type of Triangle (java)
 - [2025-05-19] Solved: Score of a String (java)
 - [2025-05-19] Solved: Append Characters to String to Make Subsequence (java)
+- [2025-05-19] Solved: Number of Senior Citizens (java)
