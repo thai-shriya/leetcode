@@ -393,3 +393,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-05-11] Solved: Detect Capital (java)
 - [2025-05-11] Solved: Relative Sort Array (java)
 - [2025-05-14] Solved: Reorder Data in Log Files (java)
+- [2025-05-19] Solved: Type of Triangle (java)
