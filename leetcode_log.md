@@ -401,3 +401,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-05-27] Solved: Majority Element II (java)
 - [2025-05-28] Solved: Maximum Number of Balloons (java)
 - [2025-05-29] Solved: Design HashSet (java)
+- [2025-05-29] Solved: Design HashMap (java)
