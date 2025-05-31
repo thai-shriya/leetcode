@@ -404,3 +404,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-05-29] Solved: Design HashMap (java)
 - [2025-05-31] Solved: Monotonic Array (java)
 - [2025-05-31] Solved: Pascal's Triangle II (java)
+- [2025-05-31] Solved: Find Words That Can Be Formed by Characters (java)
