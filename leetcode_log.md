@@ -403,3 +403,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-05-29] Solved: Design HashSet (java)
 - [2025-05-29] Solved: Design HashMap (java)
 - [2025-05-31] Solved: Monotonic Array (java)
+- [2025-05-31] Solved: Pascal's Triangle II (java)
