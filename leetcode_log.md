@@ -409,3 +409,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-01] Solved: Minimum Absolute Difference in Sliding Submatrix (java)
 - [2025-06-02] Solved: Distribute Candies Among Children I (java)
 - [2025-06-05] Solved: Lexicographically Smallest Equivalent String (java)
+- [2025-06-09] Solved: Power of Four (java)
