@@ -411,3 +411,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-05] Solved: Lexicographically Smallest Equivalent String (java)
 - [2025-06-09] Solved: Power of Four (java)
 - [2025-06-09] Solved: Maximum Subarray Min-Product (java)
+- [2025-06-12] Solved: Maximum Difference Between Adjacent Elements in a Circular Array (java)
