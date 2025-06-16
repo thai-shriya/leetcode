@@ -417,3 +417,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-15] Solved: Kth Largest Element in a Stream (java)
 - [2025-06-16] Solved: Maximum Difference Between Increasing Elements (java)
 - [2025-06-16] Solved: Find K Closest Elements (java)
+- [2025-06-16] Solved: Sort the Matrix Diagonally (java)
