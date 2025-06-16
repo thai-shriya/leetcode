@@ -415,3 +415,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-14] Solved: K Closest Points to Origin (java)
 - [2025-06-14] Solved: Top K Frequent Words (java)
 - [2025-06-15] Solved: Kth Largest Element in a Stream (java)
+- [2025-06-16] Solved: Maximum Difference Between Increasing Elements (java)
