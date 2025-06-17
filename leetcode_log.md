@@ -420,3 +420,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-16] Solved: Sort the Matrix Diagonally (java)
 - [2025-06-17] Solved: Count Number of Nice Subarrays (java)
 - [2025-06-17] Solved: Longest Subarray of 1's After Deleting One Element (java)
+- [2025-06-17] Solved: Fruit Into Baskets (java)
