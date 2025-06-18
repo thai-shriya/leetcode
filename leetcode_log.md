@@ -422,3 +422,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-17] Solved: Longest Subarray of 1's After Deleting One Element (java)
 - [2025-06-17] Solved: Fruit Into Baskets (java)
 - [2025-06-17] Solved: Binary Subarrays With Sum (java)
+- [2025-06-18] Solved: Divide Array Into Arrays With Max Difference (java)
