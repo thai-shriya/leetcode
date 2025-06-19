@@ -423,3 +423,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-17] Solved: Fruit Into Baskets (java)
 - [2025-06-17] Solved: Binary Subarrays With Sum (java)
 - [2025-06-18] Solved: Divide Array Into Arrays With Max Difference (java)
+- [2025-06-19] Solved: Partition Array Such That Maximum Difference Is K (java)
