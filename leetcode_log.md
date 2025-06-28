@@ -426,3 +426,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-19] Solved: Partition Array Such That Maximum Difference Is K (java)
 - [2025-06-23] Solved: Find the Pivot Integer (java)
 - [2025-06-24] Solved: Find All K-Distant Indices in an Array (java)
+- [2025-06-28] Solved: Find Subsequence of Length K With the Largest Sum (java)
