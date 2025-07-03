@@ -428,3 +428,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-06-24] Solved: Find All K-Distant Indices in an Array (java)
 - [2025-06-28] Solved: Find Subsequence of Length K With the Largest Sum (java)
 - [2025-07-01] Solved: Find the Original Typed String I (java)
+- [2025-07-03] Solved: Find the K-th Character in String Game I (java)
