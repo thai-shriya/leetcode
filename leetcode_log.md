@@ -431,3 +431,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-07-03] Solved: Find the K-th Character in String Game I (java)
 - [2025-07-04] Solved: Daily Temperatures (java)
 - [2025-07-06] Solved: Finding Pairs With a Certain Sum (java)
+- [2025-07-06] Solved: Count the Number of Fair Pairs (java)
