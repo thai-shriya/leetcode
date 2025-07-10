@@ -432,3 +432,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-07-04] Solved: Daily Temperatures (java)
 - [2025-07-06] Solved: Finding Pairs With a Certain Sum (java)
 - [2025-07-06] Solved: Count the Number of Fair Pairs (java)
+- [2025-07-10] Solved: Maximum Number of Events That Can Be Attended (java)
