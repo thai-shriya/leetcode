@@ -434,3 +434,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-07-06] Solved: Count the Number of Fair Pairs (java)
 - [2025-07-10] Solved: Maximum Number of Events That Can Be Attended (java)
 - [2025-07-21] Solved: Delete Characters to Make Fancy String (java)
+- [2025-08-30] Solved: Defuse the Bomb (java)
