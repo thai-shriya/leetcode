@@ -439,3 +439,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-08-30] Solved: Count Hills and Valleys in an Array (java)
 - [2025-09-04] Solved: Find Closest Person (java)
 - [2025-09-05] Solved: Convert Sorted List to Binary Search Tree (java)
+- [2025-09-06] Solved: Create Binary Tree From Descriptions (java)
