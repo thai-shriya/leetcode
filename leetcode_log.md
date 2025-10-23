@@ -443,3 +443,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-10-22] Solved: Count Elements With Maximum Frequency (java)
 - [2025-10-23] Solved: Check If Digits Are Equal in String After Operations I (java)
 - [2025-10-23] Solved: Array Reduce Transformation (javascript)
+- [2025-10-23] Solved: Function Composition (javascript)
