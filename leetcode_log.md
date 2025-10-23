@@ -446,3 +446,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-10-23] Solved: Function Composition (javascript)
 - [2025-10-23] Solved: Return Length of Arguments Passed (javascript)
 - [2025-10-23] Solved: Allow One Function Call (javascript)
+- [2025-10-23] Solved: Memoize (javascript)
