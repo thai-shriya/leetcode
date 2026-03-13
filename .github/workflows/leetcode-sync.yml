@@ -19,4 +19,4 @@ jobs:
           destination-folder: src/main/java/org/solutions
           verbose: true
           commit-header: "[LeetCode Sync]"
-          filter-duplicate-submission: true
+          filter-duplicate-secs: 86400
