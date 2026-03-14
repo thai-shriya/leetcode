@@ -451,3 +451,4 @@ _Auto-generated from LeetCode submission history._
 - [2025-10-29] Solved: Smallest Number With All Set Bits (java)
 - [2025-10-30] Solved: Add Two Promises (javascript)
 - [2025-11-08] Solved: Timeout Cancellation (javascript)
+- [2026-03-14] Solved: Combination Sum II (java)
